@@ -1,0 +1,26 @@
+{
+  "name": "namste-react-2024-15days",
+  "version": "1.0.0",
+  "description": "\"basic react app\"",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nishant18824/frontend-react-24/blob/main/Namste-React-2024-15Days.git"
+  },
+  "author": "Nishant Sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+
+  "browserlist": [
+    "cover 99.5%"
+  ]
+}
